@@ -5,7 +5,7 @@ public class Main{
         JFrame myFrame = new JFrame();
         myFrame.setSize(400,300);
         AnimatePanel bPanel = new AnimatePanel();
-
+String blah = "testing push";
 
         //myFrame.add(bPanel);
         myFrame.add(bPanel);
